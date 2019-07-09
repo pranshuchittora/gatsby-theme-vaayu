@@ -6,14 +6,10 @@ exports.createPages = ({ actions, reporter }) => {
     path: "/",
     component: require.resolve("./src/templates/page.js"),
     context: {
-      heading: "Your Theme Here",
+      heading: "Gatsby theme Vaayu",
       content: `
         <p>
-          Use this handy theme example as the basis for your own amazing theme!
-        </p>
-        <p>
-          For more information, see 
-          <a href="https://themejam.gatsbyjs.org">themejam.gatsbyjs.org</a>.
+         Vaayu => Wind
         </p>
       `,
     },
