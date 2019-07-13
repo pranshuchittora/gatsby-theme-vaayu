@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-vaayu",
+  "name": "@pranshuchittora/gatsby-theme-vaayu",
   "author": "Pranshu Chittora <pranshuchittora17@gmail.com>",
   "repository": {
     "type": "git",
@@ -21,7 +21,9 @@
   "dependencies": {
     "@emotion/core": "^10.0.14",
     "@mdx-js/react": "^1.0.21",
+    "gatsby-plugin-react-helmet": "^3.1.0",
     "gatsby-plugin-theme-ui": "^0.2.2",
+    "react-helmet": "^5.2.1",
     "theme-ui": "^0.2.2"
   },
   "keywords": [
