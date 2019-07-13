@@ -5,5 +5,5 @@
  */
 
 module.exports = {
-  plugins: ["gatsby-theme-vaayu"],
+  plugins: ["gatsby-theme-vayu"],
 }
