@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Theme Vayuu",
+    title: "Gatsby Theme Vayu",
   },
   plugins: ["gatsby-plugin-theme-ui","gatsby-plugin-react-helmet"],
 }
