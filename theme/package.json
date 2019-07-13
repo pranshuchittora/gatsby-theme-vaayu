@@ -1,9 +1,9 @@
 {
-  "name": "@pranshuchittora/gatsby-theme-vaayu",
+  "name": "gatsby-theme-vayu",
   "author": "Pranshu Chittora <pranshuchittora17@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pranshuchittora/gatsby-theme-vaayu.git"
+    "url": "https://github.com/pranshuchittora/gatsby-theme-vayu.git"
   },
   "version": "1.0.1",
   "main": "index.js",
